@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+aws.yaml
+.pem
+keys
+notes/
+.vagrant/
+img/
+research/
+screencast/
